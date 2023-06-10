@@ -3,6 +3,16 @@
 - 🔭 I’m currently working as **Accounts Admin** & **F&B Controller** at **Bangalore Brew Works Pvt Ltd** ...
 - 🌱 I’m currently learning **Data Science** from **iNeuron.ai** ...
 
+# CONNECT WITH ME:
+
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://https://www.linkedin.com/in/abhishek-b-807b75219)
+
+# 🛠️  Languages and Tools
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+          
+
+
 <!--
 **abhichris63/abhichris63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
