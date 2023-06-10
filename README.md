@@ -1,4 +1,5 @@
-### Hi there 👋
+- 🔭 I’m currently working as **Accounts Admin** & **F&B Controller** at **Bangalore Brew Works Pvt Ltd** ...
+- 🌱 I’m currently learning **Data Science** from **iNeuron.ai** ...
 
 <!--
 **abhichris63/abhichris63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
