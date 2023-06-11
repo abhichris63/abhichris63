@@ -3,10 +3,14 @@
 - 🔭 I’m currently working as **Accounts Admin** & **F&B Controller** at **Bangalore Brew Works Pvt Ltd** ...
 - 🌱 I’m currently learning **Data Science** from **iNeuron.ai** ...
 
-# CONNECT WITH ME:
+### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/abhishek-b-807b75219/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="25px"/></a>
 
+## 🔭 I'm currently working on
+
+- Leave management system project
+- Algerian forest fires project
 
 
 <!--
