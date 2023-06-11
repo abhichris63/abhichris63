@@ -6,8 +6,10 @@
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/abhishek-b-807b75219/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="25px"/></a>
+
 <br/>
-## 🔭 I'm currently working on
+
+### 🔭 I'm currently working on
 
 - Leave management system project
 - Algerian forest fires project
