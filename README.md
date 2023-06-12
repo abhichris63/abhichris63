@@ -11,7 +11,6 @@
 
 ### 🔭 I'm currently working on
 
-- Leave management system project
 - Algerian forest fires project
 
 
