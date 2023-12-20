@@ -1,6 +1,6 @@
 # Hi there, I'm Abhi 👋 
 
-- 🔭 I’m currently working as **Accounts Admin** & **F&B Controller** at **Bangalore Brew Works Pvt Ltd** ...
+- 🔭 I’m currently working on **House Price Prediction Data Science Project**
 - 🌱 I’m currently learning **Data Science** from **iNeuron.ai** ...
 
 ### 🤝 Connect with me:
