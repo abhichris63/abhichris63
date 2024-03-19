@@ -1,6 +1,6 @@
 # Hi there, I'm Abhi 👋 
 
-# - 🔭 I’m currently working on **House Price Prediction Data Science Project**
+<!-- - 🔭 I’m currently working on **House Price Prediction Data Science Project** -->
 - 🌱 I’m currently working as **Data Science Intern** at **Meritshot** ...
 
 ### 🤝 Connect with me:
