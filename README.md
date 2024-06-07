@@ -1,11 +1,11 @@
 # Hi there, I'm Abhi 👋 
 
 <!-- - 🔭 I’m currently working on **House Price Prediction Data Science Project** -->
-- 🌱 I’m currently working as **Data Science Intern** at **Meritshot** ...
+<!-- - 🌱 I’m currently working as **Data Science Intern** at **Meritshot** ... -->
 
 ### 🤝 Connect with me:
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/abhishek-b-807b75219)
+<!-- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/abhishek-b-807b75219) -->
 
 <br/>
 
